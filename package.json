@@ -1,0 +1,25 @@
+{
+  "name": "com.moati.unitycordova",
+  "version": "1.0.0",
+  "description": "Integrate Unity to Cordova project",
+  "cordova": {
+    "id": "com.moati.unitycordova",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mopi1402/UnityCordovaPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Pierre Moati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mopi1402/UnityCordovaPlugin/issues"
+  },
+  "homepage": "https://github.com/mopi1402/UnityCordovaPlugin#readme"
+}
