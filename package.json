@@ -1,6 +1,6 @@
 {
   "name": "com.moati.unitycordova",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integrate Unity to Cordova project",
   "cordova": {
     "id": "com.moati.unitycordova",
